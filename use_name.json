@@ -1,0 +1,6 @@
+{
+    "name": "TEMPLATE USE",
+    "commands": [
+        {"name": "update", "cmd": "apt-get update && apt-get install"}
+    ]
+}
